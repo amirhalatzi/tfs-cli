@@ -41,7 +41,7 @@
     "uuid": "^3.0.1",
     "validator": "^3.43.0",
     "vso-node-api": "^5.1.2",
-    "winreg": "0.0.12",
+    "winreg": "0.0.18",
     "xml2js": "^0.4.16"
   },
   "devDependencies": {
